@@ -21,7 +21,7 @@
 
 //let randomNum = Math.round(Math.random())
 
-let coinFlop = Math.round(Math.random());
+let coinFlip = Math.round(Math.random());
 let choice = prompt('Heads or Tails');
 
 //valid word check
